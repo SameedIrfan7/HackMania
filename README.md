@@ -8,4 +8,4 @@ As we embark on this 24-hour hackathon, let's remember that within this timefram
 
 This intense journey demands resilience, creativity, and unwavering dedication. Embrace the challenge, stay focused, and let the excitement of what we're creating fuel our determination. Let's support each other, push through obstacles, and make every second count. Together, we're not just coding; we're crafting a solution that could redefine an industry.
 
-Stay strong, stay inspired, and let's make this hackathon an exhilarating journey toward a brighter future in agricultural technology!
+Stay strong, stay inspired, and let's make this hackathon an exhilarating journey toward a brighter future in agricultural technology!!
